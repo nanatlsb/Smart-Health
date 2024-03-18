@@ -1,4 +1,4 @@
-package com.example.smarthealth.ui.theme
+package br.com.fiap.helloworld.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
